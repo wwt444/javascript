@@ -168,7 +168,7 @@ Other Style Guides
 
     ```javascript
     // bad
-    const item = new Object();
+    const item = new Object();1
 
     // good
     const item = {};
